@@ -31,7 +31,7 @@ This endpoint will assure you that your api is working fine and your model is lo
 ### . `POST /prediction`
 Submit the data according to model and get the output.
 
-**Request Body**
+**Request Body:**
 ```text
 {
   "site_area": 100,

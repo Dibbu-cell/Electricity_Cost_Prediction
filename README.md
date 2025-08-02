@@ -55,6 +55,19 @@ Submit the data according to model and get the output.
 
 
 ---
+# Electricity Cost Prediction API
+
+## Project Overview
+
+This project is more than just an API; it's a complete pipeline that includes:
+
+. **Exploratory Data Analysis (EDA) and preprocessing** of  CSV data  
+. **Training and evaluation** of a Machine Learning regression model  
+. **FastAPI backend** for seamless predictions  
+. **Live deployment** on Render  for global accessibility  
+
+
+---
 
 📁 **Project Structure**
 

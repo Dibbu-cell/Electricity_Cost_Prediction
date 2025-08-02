@@ -8,7 +8,14 @@ Welcome to the Electricity_Cost_Prediction_API. This project will predict monthl
 **Base URL:** https://electricity-cost-api-m893.onrender.com/docs
 
 ---
-
+## 📌 Endpoints
+### `GET /`
+Welcome Page.
+**Response:**
+```json
+{"message":"Welcome to the electricity cost  prediction API!"}
+```
+---
 
 
 

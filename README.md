@@ -90,6 +90,20 @@ The prediction model considers these key parameters:
 | `Issue Resolution Time`| Average time to resolve maintenance issues                                 | Hours (h)                        |
 | `Resident Count`       | Number of regular occupants                                                | Count                            |
 ---
+## 📈 Model Performance
+
+### 📊 Evaluation Metrics
+| Metric          | Score     | Interpretation                     |
+|-----------------|-----------|------------------------------------|
+| **R² Score**    | 0.96      | Explains 96% of cost variance      |
+| **MSE**         | 46,886.6  | Mean squared error                 |
+| **MAE**         | 173.38    | Mean absolute error in cost units  |
+
+
+
+
+
+---
 
 📁 **Project Structure**
 

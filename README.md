@@ -11,6 +11,7 @@ Welcome to the Electricity_Cost_Prediction_API. This project will predict monthl
 ## 📌 Endpoints
 ### `GET /`
 Welcome Page.
+
 **Response:**
 ```json
 {"message":"Welcome to the electricity cost  prediction API!"}

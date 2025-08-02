@@ -11,6 +11,9 @@ Welcome to the Electricity_Cost_Prediction_API. This project will predict monthl
 
 📁 **Project Structure**
 
+## 📁 Project Structure
+
+```text
 ElectricityCostPrediction/
 │
 ├── model/
@@ -26,4 +29,3 @@ ElectricityCostPrediction/
 ├── README.md                        # Project documentation
 ├── frontend.py                      # Optional frontend interface
 └── electricity.ipynb                # Jupyter notebook (EDA/feature engineering/model training)
-

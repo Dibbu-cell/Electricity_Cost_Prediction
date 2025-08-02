@@ -28,7 +28,30 @@ This endpoint will assure you that your api is working fine and your model is lo
 }
 ```
 
+### . `POST /prediction`
+Submit the data according to model and get the output.
 
+**Request Body**
+```text
+{
+  "site_area": 100,
+  "structure_type": "Mixed-use",
+  "water_consumption": 10,
+  "recycling_rate": 20,
+  "utilisation_rate": 10,
+  "air_quality_index": 80,
+  "issue_resolution_time": 10,
+  "resident_count": 19
+}
+```
+**Response:**
+```text
+{
+  "electricity_cost": 6130
+}
+
+
+```
 
 
 ---

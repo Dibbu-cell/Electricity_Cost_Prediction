@@ -104,6 +104,14 @@ The prediction model considers these key parameters:
 
 
 ---
+## ☁ Deployment on Render
+The API is deployed on Render.
+✅ FastAPI app served with Uvicorn  
+✅ Automated deployment using **docker image**
+✅ Accessible at: https://electricity-cost-api-m893.onrender.com/docs
+
+
+---
 
 📁 **Project Structure**
 
@@ -128,6 +136,8 @@ ElectricityCostPrediction/
 
 ```
 ---
+
+I hope you find this electricity cost prediction api good enough .  If  you have any doubt feel free to ask me through mail ** aryansingh962149@gmail.com**
 
 
 

@@ -34,6 +34,7 @@ ElectricityCostPrediction/
 ├── frontend.py                      # Optional frontend interface
 └── electricity.ipynb                # Jupyter notebook (EDA/feature engineering/model training)
 
+```
 ---
 
 

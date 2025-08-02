@@ -55,9 +55,9 @@ Submit the data according to model and get the output.
 
 
 ---
-# Electricity Cost Prediction API
 
-## Project Overview
+
+## ▀▄▀▄▀▄ PROJECT OVERVIEW ▄▀▄▀▄▀
 
 This project is more than just an API; it's a complete pipeline that includes:
 
@@ -67,6 +67,28 @@ This project is more than just an API; it's a complete pipeline that includes:
 . **Live deployment** on Render  for global accessibility  
 
 
+---
+## 🧠 Model Features
+
+The prediction model considers these key parameters:
+
+| Feature Category       | Description                                                                 | Units/Values                     |
+|------------------------|-----------------------------------------------------------------------------|----------------------------------|
+| **Geospatial**         |                                                                             |                                  |
+| `Site Area`            | Total area of the site                                                      | Square meters (m²)               |
+| `Structure Type`       | Building classification                                                     | Residential/Commercial/Mixed-use  |
+|                        |                                                                             |                                  |
+| **Resource Usage**     |                                                                             |                                  |
+| `Water Consumption`    | Monthly water usage                                                        | Liters (L)                       |
+| `Recycling Rate`       | Percentage of waste recycled                                               | Percentage (%)                   |
+| `Utilisation Rate`     | Percentage of resource utilization                                         | Percentage (%)                   |
+|                        |                                                                             |                                  |
+| **Environmental**      |                                                                             |                                  |
+| `Air Quality Index`    | Measure of air pollution (higher = worse air quality)                      | 0-500 scale                      |
+|                        |                                                                             |                                  |
+| **Operational**        |                                                                             |                                  |
+| `Issue Resolution Time`| Average time to resolve maintenance issues                                 | Hours (h)                        |
+| `Resident Count`       | Number of regular occupants                                                | Count                            |
 ---
 
 📁 **Project Structure**

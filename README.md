@@ -14,16 +14,16 @@ Welcome to the Electricity_Cost_Prediction_API. This project will predict monthl
 
 ElectricityCostPrediction/
 │
-├── modell/
-│   ├── electricity_cost_dataset.csv           # FastAPI app
-│   ├── model.joblib           # Trained ML model     
-│           
+├── model/
+│   ├── electricity_cost_dataset.csv  # Dataset used for training
+│   └── model.joblib                 # Trained ML model (serialized)
 │
 ├── schema/
-│    ├── user_input.py      # Pydantic model for validation
-├──app.py                   # FastAPI app
-├── Dockerfile              # process of making docker image
-├── requirements.txt        # Python dependencies
-├── README.md               # Project documentation
-├──frontend.py              # you can connect it with deployed api
-├──electricity.ipynb        # all process like feature engneering,training ,testing 
+│   └── user_input.py                # Pydantic models for data validation
+│
+├── app.py                           # FastAPI application entry point
+├── Dockerfile                       # Containerization configuration
+├── requirements.txt                 # Python dependencies
+├── README.md                        # Project documentation
+├── frontend.py                      # Optional frontend interface
+└── electricity.ipynb                # Jupyter notebook (EDA/feature engineering/model training)

@@ -9,9 +9,8 @@ Welcome to the Electricity_Cost_Prediction_API. This project will predict monthl
 
 
 
+📁 **Project Structure**
 
-📁 Project Structure
-'''text
 ElectricityCostPrediction/
 │
 ├── model/

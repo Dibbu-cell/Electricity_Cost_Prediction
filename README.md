@@ -9,17 +9,29 @@ Welcome to the Electricity_Cost_Prediction_API. This project will predict monthl
 
 ---
 ## 📌 Endpoints
-### `GET /`
+### . `GET /`
 Welcome Page.
 
 **Response:**
 ```json
 {"message":"Welcome to the electricity cost  prediction API!"}
 ```
+
+### . `GET /health`
+This endpoint will assure you that your api is working fine and your model is loading properly.
+
+**Response:**
+```text
+{
+  "status": "ok",
+  "model_loaded": true
+}
+```
+
+
+
+
 ---
-
-
-
 
 📁 **Project Structure**
 

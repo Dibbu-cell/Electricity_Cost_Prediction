@@ -106,6 +106,7 @@ The prediction model considers these key parameters:
 ---
 ## ☁ Deployment on Render
 The API is deployed on Render.
+
 ✅ FastAPI app served with Uvicorn  
 ✅ Automated deployment using **docker image**
 

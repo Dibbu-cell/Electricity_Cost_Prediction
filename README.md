@@ -171,8 +171,8 @@ http://127.0.0.1:8000/docs
 ##  📌 Frontend setup
 If you want to experience through frontend do these step.
 1. Firstly do local set up mention above after that run these commands .
-2. If  you ruuning the api in your machine then change API_LINK to (http://127.0.0.1:8000/prediction)in your( frontend.py) file .
-3. If you running the api using this link (https://electricity-cost-api-m893.onrender.com/docs) then no need to change API_LINK.
+2. If  you are ruuning the api in your machine then change API_LINK to (http://127.0.0.1:8000/prediction) in your( frontend.py) file .
+3. If you are running the api using this link (https://electricity-cost-api-m893.onrender.com/docs) then no need to change API_LINK.
 4. install streamlit in your envoirnment.
 ```text
 pip install streamlit

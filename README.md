@@ -108,7 +108,7 @@ The prediction model considers these key parameters:
 The API is deployed on Render.
 
 ✅ FastAPI app served with Uvicorn  
-✅ Automated deployment using **docker image**
+✅ Automated deployment using **docker image**(https://hub.docker.com/repository/docker/aryan020/electricity-cost-api5/tags)
 
 ✅ Accessible at: https://electricity-cost-api-m893.onrender.com/docs
 

@@ -178,12 +178,12 @@ If you want to experience through frontend do these step.
 pip install streamlit
 
 ```
-5.run frontend.py and get user interface.
+ 5.run frontend.py and get intractive  user interface.
 ```text
-streamlit run frontend.py
+ streamlit run frontend.py
 ```
 
-6. You will get user interface and you can update the values and predict the electricity cost.
+ 6. You will get intractive  user interface and you can update the values and predict the electricity cost.
 
 
 

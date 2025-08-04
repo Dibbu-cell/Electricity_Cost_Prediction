@@ -138,6 +138,34 @@ ElectricityCostPrediction/
 
 ```
 ---
+##Local Setup
+Want to run api locally? Follow these steps
+1.Clone the repository and go to main folder by cd command.
+```text
+git clone https://github.com/Dibbu-cell/Electricity_Cost_Prediction.git
+cd Electricity_Cost_Prediction
+```
+2.Create Virtual Envoirenment and activate it .
+```text
+python -m venv venv
+venv\Scripts\activate   #for window users
+
+
+```
+3.Install Dependcies
+```text
+pip install -r requirements.txt
+```
+4. Run api locally
+ ```text
+uvicorn app:app --reload
+```
+5.Open your browser and navigate to:
+http://127.0.0.1:8000/docs
+   
+
+
+---
 
 I hope you find this electricity cost prediction api good enough .  If  you have any doubt feel free to ask me through mail ** aryansingh962149@gmail.com**
 

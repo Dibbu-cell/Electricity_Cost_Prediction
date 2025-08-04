@@ -6,7 +6,7 @@ Welcome to the Electricity_Cost_Prediction_API. This project will predict monthl
 
 ## 🌐 Live API
 **Base URL:** https://electricity-cost-api-m893.onrender.com/docs
-## project repo :-https://github.com/Dibbu-cell/Electricity_Cost_Prediction
+## project repo in git hub :-https://github.com/Dibbu-cell/Electricity_Cost_Prediction
 
 ---
 ## 📌 Endpoints

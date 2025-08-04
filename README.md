@@ -183,7 +183,7 @@ pip install streamlit
  streamlit run frontend.py
 ```
 
- 6. You will get intractive  user interface and you can update the values and predict the electricity cost.
+6. You will get intractive  user interface and you can update the values and predict the electricity cost.
 
 
 

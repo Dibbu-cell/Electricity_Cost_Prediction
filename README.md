@@ -138,7 +138,8 @@ ElectricityCostPrediction/
 
 ```
 ---
-##Local Setup
+## 🚀 Local Setup
+
 Want to run api locally? Follow these steps
 1.Clone the repository and go to main folder by cd command.
 ```text

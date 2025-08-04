@@ -168,6 +168,31 @@ http://127.0.0.1:8000/docs
 
 ---
 
+##  📌 Frontend setup
+If you want to experience through frontend do these step.
+1. Firstly do local set up mention above after that run these commands .
+2. If  you ruuning the api in your machine then change API_LINK to "http://127.0.0.1:8000/prediction"in your( frontend.py) file .
+3. If you running the api using this link (https://electricity-cost-api-m893.onrender.com/docs) then no need to change API_LINK.
+4. install streamlit in your envoirnment.
+```text
+pip install streamlit
+
+```
+5.run frontend.py and get user interface.
+```text
+streamlit run frontend.py
+```
+
+6. You will get user interface and you can update the values and predict the electricity cost.
+
+
+
+
+
+
+
+---
+
 I hope you find this electricity cost prediction api good enough .  If  you have any doubt feel free to ask me through mail ** aryansingh962149@gmail.com**
 
 
